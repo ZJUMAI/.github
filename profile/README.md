@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-🙋‍♀️ This is ZJUMAI group from Zhejiang University
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=This+is+ZJUMAI+group+from+Zhejiang+University.;We+are+trying+to+make+changes+in+AI%2BMedical.;Remember%2C+It+is+artificail%2C+but+real.)](https://git.io/typing-svg)
 
+🙋‍♀️ This is ZJUMAI group from Zhejiang University.
+
+👩‍💻 We are trying to make changes in AI+Medical.
+
+🧙 Remember, It is artificail, but real.
 <!--
 
 **Here are some ideas to get you started:**
